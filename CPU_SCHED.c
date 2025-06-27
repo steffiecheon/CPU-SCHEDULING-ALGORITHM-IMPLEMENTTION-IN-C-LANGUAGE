@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <strings.h>
 #define MAX 10
-
-//STEPHANIE B. TOCAYON, BSCS-3B
 //CPU SCHEDULING ALGORITHMS ACTIVITY IN OPERATING SYSTEM
 
 //stores the values 
